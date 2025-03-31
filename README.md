@@ -6,7 +6,13 @@ This repository contains research and implementation for analyzing spatio-tempor
 
 ### Research Topic:
 Analyzing Spatio-Temporal Data using Cluster Analysis and Interpreting with Explainable AI
+
 📅 September 2023 – Present
+
+### Datasets Used:
+**Kaggle Peru Uber Ride Dataset** - Publicly available dataset containing Uber ride records in Peru. (https://www.kaggle.com/datasets/marcusrb/uber-peru-dataset)
+
+**Real-World Spatio-Temporal Bus Ride Dataset** - Dataset collected from the Bayern region of Germany, containing bus ride patterns over time.
 
 ### Progress So Far:
 **Two-Phased Cluster Analysis**: Applied clustering techniques to detect spatial-temporal hotspots in the dataset.
@@ -15,10 +21,6 @@ Analyzing Spatio-Temporal Data using Cluster Analysis and Interpreting with Expl
 
 **Comparative Analysis**: Analyzed ride patterns from two different datasets and compared results.
 
-### Datasets Used:
-**Kaggle Peru Uber Ride Dataset** - Publicly available dataset containing Uber ride records in Peru. (https://www.kaggle.com/datasets/marcusrb/uber-peru-dataset)
-
-**Real-World Spatio-Temporal Bus Ride Dataset** - Dataset collected from the Bayern region of Germany, containing bus ride patterns over time.
 
 ### Next Steps:
 **Enhancing Cluster Interpretability**: Develop and implement a structured approach to improve cluster interpretation using XAI techniques.
